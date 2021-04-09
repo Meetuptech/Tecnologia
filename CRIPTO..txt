@@ -1,0 +1,54 @@
+br.tradingview/chart/k0Nt7aYV/
+https://github.com/TeoCalvo/imersao-pandas
+
+
+
+horas fixas.
+remoto
+publicar
+ 
+publicar em algum lugar
+
+servidor deles, tem docker
+
+verificar o que eh tupla
+
+
+eu dei um nome agora
+
+wilzzini@gmail.com
+Usgfw2#&
+
+if 'l' in dic:
+print true
+
+2543 18/02
+
+
+2507
+2431,19
+2199
+
+2478,69
+2121,70
+2117
+
+
+
+
+@#*%Jho739!+ALTT2 @jhonaTa123   final 4117
+
+ def CriarAno(self,ano):
+        self.ano = ano
+
+    def ObterNome(self):
+        return self.nome
+
+    def ObterAno(self):
+        return self.ano
+
+carro = Carro()
+carro.CriarNome('camaro')
+carro.CriarAno(2010)
+print(carro.ObterNome())
+print(carro.ObterAno())
